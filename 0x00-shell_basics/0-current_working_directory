@@ -1,2 +1,2 @@
 #!/bin/bash
-/tmp/correction/3052625889555620115147312241840604747100_5/205/520639/0x00-shell_basics
+ln -s /bin/ls __ls__
